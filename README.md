@@ -29,15 +29,6 @@ Building beautiful things that actually work.
 
 ---
 
-## 🛠 Tech Toolbox
-
-```ts
-Languages:   TypeScript, Go, Dart, GLSL
-Frontend:    Next.js, Angular, Ionic, Flutter
-Backend:     GoFiber, Prisma, Supabase, PostgreSQL
-Creative:    Figma, GSAP, R3F, WebGL, Three.js
-Blockchain:  Solana, Hardhat, Web3Auth
-
 ---
 
 ## 📊 Skill Snapshot
@@ -52,3 +43,12 @@ Blockchain:  Solana, Hardhat, Web3Auth
 | **DevOps / Infra**| ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GH--Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 
 > 🧪 Always experimenting, shipping fast, and learning in public.
+
+## 🛠 Tech Toolbox
+
+```ts
+Languages:   TypeScript, Go, Dart, GLSL
+Frontend:    Next.js, Angular, Ionic, Flutter
+Backend:     GoFiber, Prisma, Supabase, PostgreSQL
+Creative:    Figma, GSAP, R3F, WebGL, Three.js
+Blockchain:  Solana, Hardhat, Web3Auth
