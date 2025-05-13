@@ -29,8 +29,6 @@ Building beautiful things that actually work.
 
 ---
 
----
-
 ## 📊 Skill Snapshot
 
 | Category         | Tech / Tools                                                                 |
